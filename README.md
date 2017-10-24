@@ -12,7 +12,7 @@ like GitHub too, format nicely as HTML.
 
 ###
 
-* 
+* never delete the '.git' directory
 **Goal:** I know how to create a local Git repository.
 
 What does Git do when initialising a local repository?
