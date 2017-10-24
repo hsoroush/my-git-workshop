@@ -10,13 +10,14 @@ like GitHub too, format nicely as HTML.
 
 
 
-###hdsjflksja
+###
 
+* 
 **Goal:** I know how to create a local Git repository.
 
 What does Git do when initialising a local repository?
 
-* Your answer here
+* Your answer
 
 
 ### Saving my changes
